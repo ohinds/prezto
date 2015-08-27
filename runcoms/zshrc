@@ -12,3 +12,6 @@ fi
 
 # Customize to your needs...
 
+source $HOME/.bash_alias
+source $HOME/.pathrc
+source $HOME/.zkeys
